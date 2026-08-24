@@ -37,6 +37,7 @@ app.add_middleware(
         # Vite production preview
         "http://localhost:4173",
         "http://127.0.0.1:4173",
+        "https://cardio-sense-ai-sandy.vercel.app",
     ],
 
     allow_credentials=True,
